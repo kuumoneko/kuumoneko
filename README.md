@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kuumo Nzeko</h1>
 <h3 align="center">learning in Vietnam</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuumoneko&label=Profile%20views&color=0e75b6&style=flat" alt="kuumoneko" /> </p>
+
+<a href="https://discord.com/users/950354453033263175" target="_blank"><img align="center"  src="https://discord.c99.nl/widget/theme-1/950354453033263175.png"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuumoneko" alt="kuumoneko" /></a> </p>
 
