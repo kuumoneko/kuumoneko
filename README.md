@@ -24,10 +24,6 @@
 
 <h3 align="left">
 
-Support:</h3>
-
-
-<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/kuumoneko"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="buymeacoffee.com/kuumoneko" /></a></p>
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuumoneko&show_icons=true&locale=en&layout=compact" alt="kuumoneko" /></p>
