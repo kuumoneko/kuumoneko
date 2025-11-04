@@ -6,8 +6,6 @@
 
 <a href="https://discord.com/users/950354453033263175" target="_blank"><img align="center"  src="https://discord.c99.nl/widget/theme-1/950354453033263175.png"/></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuumoneko" alt="kuumoneko" /></a> </p>
-
 - 🌱 I’m currently learning **javascript**
 
 - 📫 How to reach me **kuumoneko@gmail.com**
@@ -24,7 +22,6 @@
 
 <h3 align="left">
 
-<br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuumoneko&show_icons=true&locale=en&layout=compact" alt="kuumoneko" /></p>
 
