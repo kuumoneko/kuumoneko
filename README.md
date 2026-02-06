@@ -6,7 +6,7 @@
 
 <a href="https://discord.com/users/950354453033263175" target="_blank"><img align="center"  src="https://discord.c99.nl/widget/theme-1/950354453033263175.png"/></a>
 
-- 🌱 I’m currently learning at **Bach Khoa University - VNUHCM**
+- 🌱 I’m currently learning at **Ho Chi Minh University of technology - Viet Nam National University Ho Chi Minh City**
 
 - 📫 How to reach me **kuumoneko@gmail.com**
 
