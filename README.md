@@ -2,8 +2,6 @@
 <h3 align="center">learning in Vietnam</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuumoneko&label=Profile%20views&color=0e75b6&style=flat" alt="kuumoneko" /> </p>
-
 <a href="https://discord.com/users/950354453033263175" target="_blank"><img align="center"  src="https://discord.c99.nl/widget/theme-1/950354453033263175.png"/></a>
 
 - 🌱 I’m currently learning at **Ho Chi Minh University of technology - Viet Nam National University Ho Chi Minh City**
